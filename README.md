@@ -18,4 +18,5 @@ I have been writing those codes since the beginning of 2017. I am quite interest
 As you will see, all the files have `.c` format extension, since I am still modifying them. My intention is to develop `C` header files to provide different numerical analysis operations, which may be useful for my purposes and also for other people.
   
 I expect those codes may assist you! :jack_o_lantern:
+
 M. Miotti (@ravenpeak). April 7th, 2017.
